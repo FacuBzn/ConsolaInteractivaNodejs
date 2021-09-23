@@ -1,0 +1,6 @@
+
+node_modules/
+db/*.json
+prueba.js
+prueba.json
+json-cuotasrestantes.json
